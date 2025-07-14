@@ -1,0 +1,51 @@
+ID_Contrato,Projeto,Tipo_Contrato,Fornecedor,Valor_Total_R$,Status,Data_Assinatura,Data_Termino,ESG_Score,Clausula_Multa,Clausula_Confidencialidade,Clausula_ESG,Risco_Contratual,Score_Compliance_%,Atraso_dias,Pendencias_Abertas,Avaliacao_Interna,Stakeholder_Critico
+C001,Florestas_Verdes,EPC,Fornecedor_E,1689547,Em execucao,2022-05-17,2023-08-25,78,True,False,True,Baixo,75,0,0,6,False
+C002,PSA_Norte,Tecnologia,Fornecedor_B,1401197,Finalizado,2020-04-20,2022-10-13,56,False,True,True,Baixo,84,0,0,7,False
+C003,PSA_Norte,Fornecimento,Fornecedor_E,293659,Rescindido,2020-01-23,2020-08-16,65,True,False,True,Baixo,78,0,0,10,False
+C004,Biodiversidade_Legal,Fornecimento,Fornecedor_J,89153,Finalizado,2022-02-06,2022-10-15,86,False,True,True,Alto,92,99,1,5,False
+C005,Florestas_Verdes,Tecnologia,Fornecedor_B,1240797,Inadimplente,2021-11-28,2023-09-27,61,False,True,True,Medio,60,43,0,3,True
+C006,Logistica_ESG,EPC,Fornecedor_E,119065,Inadimplente,2019-06-17,2022-02-01,44,True,True,True,Alto,66,0,0,8,True
+C007,Fundiario_Sul,Consultoria,Fornecedor_F,1352909,Em execucao,2022-02-16,2024-06-10,71,True,False,True,Alto,94,107,4,4,True
+C008,Florestas_Verdes,Servico,Fornecedor_D,437813,Rescindido,2022-04-27,2023-09-03,32,False,False,True,Alto,63,0,0,2,False
+C009,PSA_Norte,Servico,Fornecedor_D,1511745,Finalizado,2023-07-25,2025-04-26,79,True,True,False,Baixo,91,0,0,6,False
+C010,Fundiario_Sul,EPC,Fornecedor_A,372419,Rescindido,2020-04-10,2020-12-11,31,True,False,True,Alto,89,0,0,5,False
+C011,Logistica_ESG,Consultoria,Fornecedor_H,730301,Inadimplente,2021-01-09,2023-12-17,41,False,True,False,Alto,84,0,0,2,False
+C012,PSA_Norte,Servico,Fornecedor_H,556325,Rescindido,2023-10-09,2025-06-01,48,True,True,False,Alto,93,0,0,4,False
+C013,Florestas_Verdes,Servico,Fornecedor_A,139713,Inadimplente,2020-01-01,2021-06-28,34,False,True,False,Alto,86,0,0,4,False
+C014,Logistica_ESG,Consultoria,Fornecedor_I,442859,Inadimplente,2023-11-11,2024-08-19,100,False,True,True,Baixo,84,0,0,1,False
+C015,PSA_Norte,EPC,Fornecedor_I,1993573,Inadimplente,2023-04-11,2024-11-12,37,True,True,True,Alto,52,76,4,2,True
+C016,Logistica_ESG,EPC,Fornecedor_I,1630440,Rescindido,2022-08-21,2024-08-13,38,True,True,True,Alto,52,153,4,4,True
+C017,Florestas_Verdes,Fornecimento,Fornecedor_G,1442497,Finalizado,2021-11-08,2023-01-26,61,True,True,True,Alto,80,166,5,6,False
+C018,PSA_Norte,Fornecimento,Fornecedor_F,1465646,Em execucao,2019-11-14,2020-09-03,45,False,True,False,Alto,96,0,0,9,False
+C019,PSA_Norte,EPC,Fornecedor_J,840884,Em execucao,2023-10-21,2024-05-27,36,True,True,True,Alto,81,0,0,4,True
+C020,Logistica_ESG,EPC,Fornecedor_E,451486,Rescindido,2020-06-15,2021-12-18,30,True,True,False,Alto,71,0,0,6,False
+C021,Florestas_Verdes,Tecnologia,Fornecedor_G,673209,Rescindido,2021-05-22,2024-04-30,80,False,True,True,Baixo,64,0,0,9,True
+C022,Biodiversidade_Legal,Tecnologia,Fornecedor_C,1306201,Rescindido,2021-02-03,2022-08-29,65,True,True,False,Alto,61,170,5,1,True
+C023,PSA_Norte,Fornecimento,Fornecedor_G,970150,Inadimplente,2020-08-22,2023-03-11,30,False,True,True,Alto,55,0,0,10,False
+C024,Florestas_Verdes,Tecnologia,Fornecedor_D,859560,Finalizado,2022-01-09,2024-01-30,100,True,True,True,Baixo,96,0,0,9,True
+C025,Logistica_ESG,Servico,Fornecedor_F,1340138,Inadimplente,2019-02-13,2019-11-11,90,True,True,True,Baixo,69,0,0,6,False
+C026,Biodiversidade_Legal,Servico,Fornecedor_A,625451,Inadimplente,2023-07-22,2024-08-20,34,True,True,True,Alto,51,0,0,2,True
+C027,Florestas_Verdes,Servico,Fornecedor_G,144067,Em execucao,2023-04-04,2024-06-19,50,True,True,False,Baixo,92,0,0,4,False
+C028,Florestas_Verdes,Consultoria,Fornecedor_C,767441,Finalizado,2023-06-18,2024-08-22,72,True,True,True,Baixo,85,0,0,5,False
+C029,Fundiario_Sul,Fornecimento,Fornecedor_B,1853661,Finalizado,2022-02-23,2023-03-14,51,True,True,True,Alto,66,158,2,3,True
+C030,Logistica_ESG,EPC,Fornecedor_D,1866919,Rescindido,2020-11-28,2023-01-05,53,True,True,True,Alto,91,156,4,5,False
+C031,Florestas_Verdes,EPC,Fornecedor_G,497466,Em execucao,2020-07-23,2022-11-07,68,True,True,True,Alto,66,146,3,7,False
+C032,Fundiario_Sul,Consultoria,Fornecedor_A,1403627,Inadimplente,2022-03-29,2024-07-24,74,True,True,True,Baixo,82,0,0,1,False
+C033,Biodiversidade_Legal,Consultoria,Fornecedor_A,169074,Rescindido,2021-10-24,2023-06-10,55,True,True,True,Baixo,90,0,0,6,True
+C034,PSA_Norte,Tecnologia,Fornecedor_E,1111255,Finalizado,2021-09-24,2023-05-26,67,True,True,True,Medio,95,29,4,9,False
+C035,Fundiario_Sul,Tecnologia,Fornecedor_H,935526,Rescindido,2020-04-20,2021-05-28,68,True,True,False,Alto,70,163,0,10,False
+C036,Biodiversidade_Legal,Tecnologia,Fornecedor_H,1174072,Em execucao,2020-10-29,2021-05-05,31,False,False,True,Alto,78,0,0,6,False
+C037,PSA_Norte,Fornecimento,Fornecedor_B,270039,Rescindido,2020-12-14,2023-03-21,79,True,True,True,Medio,88,38,1,1,True
+C038,Fundiario_Sul,Consultoria,Fornecedor_H,1891455,Finalizado,2022-12-15,2023-11-30,63,True,True,True,Baixo,64,0,0,5,False
+C039,Fundiario_Sul,Fornecimento,Fornecedor_B,119079,Finalizado,2021-03-11,2023-06-30,44,True,True,False,Alto,53,76,1,7,True
+C040,PSA_Norte,Consultoria,Fornecedor_H,1552143,Rescindido,2021-10-30,2024-07-09,53,True,False,True,Baixo,96,0,0,8,False
+C041,PSA_Norte,Consultoria,Fornecedor_H,832949,Finalizado,2020-04-09,2022-04-08,76,True,True,True,Medio,88,5,1,4,False
+C042,Biodiversidade_Legal,EPC,Fornecedor_B,1299636,Inadimplente,2020-03-10,2021-12-24,65,True,True,True,Alto,98,97,3,9,True
+C043,PSA_Norte,EPC,Fornecedor_B,1771241,Em execucao,2019-03-24,2020-05-31,68,True,True,False,Medio,93,63,1,9,False
+C044,Florestas_Verdes,Tecnologia,Fornecedor_F,96984,Em execucao,2022-08-13,2025-07-28,53,False,True,False,Alto,77,106,1,1,True
+C045,Logistica_ESG,Servico,Fornecedor_D,1194683,Inadimplente,2019-09-08,2020-10-18,46,False,True,False,Alto,50,0,0,8,True
+C046,Florestas_Verdes,Fornecimento,Fornecedor_E,1005256,Rescindido,2019-09-01,2021-09-09,72,True,True,False,Medio,51,68,1,3,False
+C047,Biodiversidade_Legal,EPC,Fornecedor_G,234674,Em execucao,2020-02-09,2022-11-28,50,True,True,True,Baixo,74,0,0,9,True
+C048,PSA_Norte,Servico,Fornecedor_G,1714672,Finalizado,2022-01-29,2023-09-04,86,True,True,True,Medio,75,37,1,3,False
+C049,Fundiario_Sul,Fornecimento,Fornecedor_J,462469,Rescindido,2023-03-03,2025-11-29,65,True,False,False,Alto,57,143,0,6,True
+C050,Logistica_ESG,Servico,Fornecedor_D,1623404,Finalizado,2022-10-31,2024-06-28,91,True,True,False,Baixo,55,0,0,7,True
